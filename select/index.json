@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君がおじいちゃんあたしがおばあちゃん",
+  "base_artist": "コレサワ",
+  "createdAt": "2026-01-07T16:38:36.415481Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君がおじいちゃんあたしがおばあちゃん",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_君がおじいちゃんあたしがおばあちゃん_コレサワ.txt"
+    }
+  ]
+}
